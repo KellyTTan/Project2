@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic|Open+Sans&display=swap');
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Nanum Gothic', sans-serif;
+	color: rgb(100, 0, 0);
+}
