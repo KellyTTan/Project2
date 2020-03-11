@@ -18,3 +18,8 @@ p {
 li {
 	font-family: 'Nanum Gothic', sans-serif;
 }
+
+nav {
+	margin: 50px;
+	text-align: center;
+}
