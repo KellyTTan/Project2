@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic|Open+Sans&display=swap');
-p {
-	font-family: 'Open Sans', sans-serif;
-}
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic|Open+Sans|PT+Sans+Narrow|Quicksand&display=swap');
+
 
 h1 {
-	font-family: 'Nanum Gothic', sans-serif;
+	'Quicksand', sans-serif;
 	color: rgb(100, 0, 0);
+}
+h2 {
+	'Quicksand', sans-serif;
+}
+
+p {
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+li {
+	font-family: 'Nanum Gothic', sans-serif;
 }
