@@ -33,9 +33,10 @@ span {
 }
 
 a {
-  text-decoration: none;
-  font-weight: normal;
-  margin: 5px 5px;
+	text-decoration: none;
+	font-weight: normal;
+	margin: 5px 5px;
+	color: white;
 }
 
 nav {
