@@ -23,13 +23,14 @@ li {
 }
 
 span {
-	margin: 50px ;
+	margin: 10px auto;
 	display: inline-block;
 	text-align: center;
 	position: relative;
 	text-decoration: none;
 	font-size: 22px;
 	background-color: turquoise;
+	padding: 12px 50px;
 }
 
 a {
