@@ -21,6 +21,7 @@ li {
 
 nav ul li{
 	margin: 50px;
+	display: block;
 	text-align: center;
 	position: relative;
 }
