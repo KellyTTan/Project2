@@ -5,7 +5,9 @@ body {
 }
 
 section {
-	width: 30%;
+	width: 75%;
+	text-align: center;
+	margin: 10px auto;
 }
 
 h1 {
