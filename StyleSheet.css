@@ -22,7 +22,7 @@ li {
 	font-family: 'Nanum Gothic', sans-serif;
 }
 
-nav ul li{
+span {
 	margin: 50px auto;
 	display: inline-block;
 	text-align: center;
