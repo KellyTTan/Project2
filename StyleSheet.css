@@ -22,4 +22,5 @@ li {
 nav {
 	margin: 50px;
 	text-align: center;
+	position: relative;
 }
