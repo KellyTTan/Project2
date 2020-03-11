@@ -23,7 +23,7 @@ li {
 }
 
 span {
-	margin: 50px auto;
+	margin: 50px ;
 	display: inline-block;
 	text-align: center;
 	position: relative;
@@ -32,7 +32,8 @@ span {
 }
 
 nav {
-  width: 85%;
-  text-align: center;
-  margin: 1px auto;
+	width: 85%;
+	text-align: center;
+	margin: 0px auto;
+	text-decoration: none;
 }
