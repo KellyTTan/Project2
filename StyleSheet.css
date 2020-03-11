@@ -32,6 +32,10 @@ span {
 	background-color: rgb(120, 190, 250;
 	padding: 12px 50px;
 }
+span:hover {
+	background-color: rgb(70, 140, 200);
+	border-radius: 15px;
+}
 
 a {
 	text-decoration: none;
