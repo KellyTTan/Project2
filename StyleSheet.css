@@ -19,7 +19,7 @@ li {
 	font-family: 'Nanum Gothic', sans-serif;
 }
 
-nav {
+nav ul li{
 	margin: 50px;
 	text-align: center;
 	position: relative;
