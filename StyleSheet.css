@@ -38,7 +38,6 @@ span {
 	font-size: 22px;
 	background-color: rgb(120, 190, 250);
 	padding: 12px 50px;
-	font-family: 'Barlow', sans-serif;
 }
 span:hover {
 	background-color: rgb(70, 140, 200);
@@ -50,6 +49,7 @@ a {
 	font-weight: normal;
 	margin: 5px 5px;
 	color: white;
+	font-family: 'Barlow', sans-serif;
 }
 
 nav {
