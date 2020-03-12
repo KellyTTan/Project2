@@ -20,16 +20,17 @@ h2 {
 	color: rgb(70, 140, 200);
 	font-size: 20px;
 	margin-bottom: 0;
+	margin-top: 35px;
 }
 
 p {
 	font-family: 'Nanum Gothic', sans-serif;
-	line-height: 1.89;
+	line-height: 1.85;
 }
 
 li {
 	font-family: 'Nanum Gothic', sans-serif;
-	line-height: 1.89;
+	line-height: 1.85;
 }
 
 span {
