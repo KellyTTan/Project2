@@ -75,13 +75,16 @@ nav {
 
 .h2color1 {
 	color: rgb(100, 170, 130);
+	font-size: 20px;
 }
 
 .h2color2 {
 	color: rgb(170, 100, 150); 
+	font-size: 20px;
 }
 .h2color3 {
 	color: rgb(180, 100, 120);
+	font-size: 20px;
 }
 
 .foodpics {
