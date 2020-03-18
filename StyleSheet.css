@@ -63,6 +63,10 @@ nav {
 	text-decoration: none;
 }
 
+.bodyborder {
+	background-color: rgb(120, 190, 250);
+
+}
 
 .h2color1 {
 	color: rgb(100, 170, 130);
