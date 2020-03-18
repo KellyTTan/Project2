@@ -6,7 +6,8 @@ body {
 
 section {
 	width: 60%;
-	margin: 5%, 15%;
+	padding: 5% auto;
+	margin: 30px;
 	background-color: white;
 }
 
