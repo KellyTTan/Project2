@@ -90,6 +90,7 @@ ul {
 .foodpics {
 	display: inline-block;
 	margin: 10px;
-
 }
 
+.tropical {
+	background-color: rgb(130, 190, 170);
