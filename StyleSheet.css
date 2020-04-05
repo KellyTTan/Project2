@@ -35,7 +35,7 @@ li {
 	line-height: 1.85;
 }
 
-span {
+li {
 	margin: 10px auto;
 	display: inline-block;
 	text-align: center;
@@ -45,7 +45,7 @@ span {
 	background-color: rgb(120, 190, 250);
 	padding: 12px 50px;
 }
-span:hover {
+li:hover {
 	background-color: rgb(70, 140, 200);
 	border-radius: 15px;
 }
@@ -58,7 +58,7 @@ a {
 	font-family: 'Arial', sans-serif;
 }
 
-nav {
+ul {
 	width: 85%;
 	text-align: center;
 	margin: 0px auto;
