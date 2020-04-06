@@ -63,7 +63,7 @@ a {
 	padding: 12px 50px;
 }
 
-ul {
+div > ul {
 	width: 85%;
 	text-align: center;
 	margin: 0px auto;
