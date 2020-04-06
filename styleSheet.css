@@ -101,8 +101,8 @@ div > ul {
 }
 
 .tropical {
-	background-color: rgb(150, 210, 190, 0.4);
-	background-image:  url('media/waves.jpg');
+	background-color: black;
+	background-image: url('media/waves.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
