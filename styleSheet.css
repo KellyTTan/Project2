@@ -37,6 +37,7 @@ p {
 section > ul {
 	font-family: 'Nanum Gothic', sans-serif;
 	line-height: 1.85;
+	text-align: left;
 }
 
 li {
