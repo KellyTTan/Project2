@@ -36,6 +36,9 @@ section > ul {
 	text-align: left;
 }
 
+ul#menu li {
+	display: inline;
+}
 
 a:hover {
 	background-color: rgb(70, 140, 200);
