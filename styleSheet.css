@@ -36,9 +36,7 @@ section > ul {
 	text-align: left;
 }
 
-li {
-	
-}
+
 a:hover {
 	background-color: rgb(70, 140, 200);
 	border-radius: 15px;
@@ -63,7 +61,6 @@ a {
 	font-size: 22px;
 	background-color: rgb(120, 190, 250);
 	padding: 12px 50px;
-	list-style-type: none;
 }
 
 ul {
@@ -72,6 +69,8 @@ ul {
 	margin: 0px auto;
 	text-decoration: none;
 	display: inline-block;
+	list-style-type: none;
+	
 }
 
 .bodyborder {
