@@ -46,12 +46,14 @@ a:hover {
 a {
 	/*
 	text-decoration: none;
-	font-weight: normal;
+	
 	margin: 5px 5px;
 	color: white;
 	font-family: 'Arial', sans-serif;
 	*/
-	
+	font-weight: normal;
+	color: white;
+	font-family: 'Arial', sans-serif;
 	margin: 10px auto;
 	display: inline-block;
 	text-align: center;
@@ -97,5 +99,5 @@ ul {
 }
 
 .tropical {
-	background-color: rgb(150, 210, 190);
+	background-color: rgb(150, 210, 190, 0.3);
 }
