@@ -70,7 +70,11 @@ div > ul {
 	text-decoration: none;
 	display: inline-block;
 	list-style-type: none;
-	
+}
+
+div > li {
+	display: inline;
+	list-style-type: none;
 }
 
 .bodyborder {
