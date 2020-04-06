@@ -70,6 +70,7 @@ ul {
 	text-align: center;
 	margin: 0px auto;
 	text-decoration: none;
+	display: inline-block;
 }
 
 .bodyborder {
