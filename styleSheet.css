@@ -43,6 +43,7 @@ section > ul {
 ul#menu li {
 	display: inline;
 	text-align: center;
+	opacity: 1.0;
 }
 
 a:hover {
