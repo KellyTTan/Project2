@@ -40,25 +40,17 @@ section > ul {
 	width: 85%;
 }
 
-ul#menu li {
-	display: inline;
+.menu {
 	text-align: center;
-	opacity: 1.0;
+	border-width: 1px 0;
+	list-style: none;
 }
 
-a:hover {
-	background-color: rgb(70, 140, 200);
-	border-radius: 15px;
+.menu li {
+	display: inline;
 }
 
-a {
-	/*
-	text-decoration: none;
-	
-	margin: 5px 5px;
-	color: white;
-	font-family: 'Arial', sans-serif;
-	*/
+.menu a {
 	font-weight: normal;
 	color: white;
 	font-family: 'Arial', sans-serif;
@@ -72,17 +64,18 @@ a {
 	padding: 12px 50px;
 }
 
+a:hover {
+	background-color: rgb(70, 140, 200);
+	border-radius: 15px;
+}
+
+
 div > ul {
 	width: 85%;
 	text-align: center;
 	margin: 0px auto;
 	text-decoration: none;
 	display: inline-block;
-	list-style-type: none;
-}
-
-div > li {
-	display: inline;
 	list-style-type: none;
 }
 
