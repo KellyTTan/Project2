@@ -2,10 +2,6 @@
 
 body {
 	margin-bottom: 50px;
-	background-image:  url('media/waves.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
 }
 
 section {
@@ -106,5 +102,9 @@ ul {
 }
 
 .tropical {
-	background-color: rgb(150, 210, 190, 0.3);
+	background-color: rgb(150, 210, 190, 0.4);
+	background-image:  url('media/waves.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
