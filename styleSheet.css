@@ -2,6 +2,10 @@
 
 body {
 	margin-bottom: 50px;
+	background-image:  url('media/waves.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
 section {
