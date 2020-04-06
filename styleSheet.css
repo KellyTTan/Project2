@@ -38,8 +38,11 @@ section > ul {
 }
 
 .menu {
+	width: 85%;
 	text-align: center;
-	border-width: 1px 0;
+	margin: 0px auto;
+	text-decoration: none;
+	display: inline-block;
 	list-style: none;
 }
 
@@ -64,16 +67,6 @@ section > ul {
 a:hover {
 	background-color: rgb(70, 140, 200);
 	border-radius: 15px;
-}
-
-
-div > ul {
-	width: 85%;
-	text-align: center;
-	margin: 0px auto;
-	text-decoration: none;
-	display: inline-block;
-	list-style-type: none;
 }
 
 .bodyborder {
