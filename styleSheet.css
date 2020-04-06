@@ -38,7 +38,7 @@ section > ul {
 }
 
 .menu {
-	width: 100%;
+	width: 96%;
 	text-align: center;
 	margin: 1px auto;
 	text-decoration: none;
@@ -49,7 +49,6 @@ section > ul {
 .menu li {
 	display: inline;
 	margin: 1px auto;
-	width: 65%;
 	text-align: center;
 }
 
