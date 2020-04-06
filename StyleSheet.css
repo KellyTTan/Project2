@@ -30,9 +30,12 @@ p {
 	line-height: 1.85;
 }
 
-.lists {
+section > ul {
 	font-family: 'Nanum Gothic', sans-serif;
 	line-height: 1.85;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
 li {
