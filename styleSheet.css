@@ -36,7 +36,7 @@ section > ul {
 	text-align: left;
 	width: 85%;
 }
-/*
+
 .menu {
 	width: 96%;
 	text-align: center;
@@ -51,35 +51,9 @@ section > ul {
 	margin: 1px auto;
 	text-align: center;
 }
-*/
-#navbar {
-	overflow: hidden;
-	width: 100%;
-	position: relative
-}
 
-#navbar-container {
-	float: left;
-	position: relative;
-	left: 50%;
-	display: block;
-}
 
-#navbar-container ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	float: left;
-	position: relative;
-	right: 50%;
-	display: block;
-}
-
-#navbar-container ul li {
-	float: left;
-}
-
-#navbar a {
+.menu a {
 	font-weight: normal;
 	color: white;
 	font-family: 'Arial', sans-serif;
@@ -93,7 +67,7 @@ section > ul {
 	padding: 12px 50px;
 }
 
-#navbar a:hover {
+.menu a:hover {
 	background-color: rgb(70, 140, 200);
 	border-radius: 15px;
 }
