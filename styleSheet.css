@@ -32,7 +32,7 @@ p {
 
 section > ul {
 	font-family: 'Nanum Gothic', sans-serif;
-	line-height: 1.85;
+	line-height: 1.85em;
 	text-align: left;
 	width: 85%;
 }
